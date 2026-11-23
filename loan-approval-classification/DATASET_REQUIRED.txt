@@ -1,0 +1,13 @@
+DATASET REQUIRED
+
+The notebook reads a CSV file named:
+    loan_approval_1000.csv
+
+Place that file in this project folder, beside the notebook.
+
+The notebook uses these columns:
+- Income
+- Employment_Type
+- Loan_Approved
+
+The uploaded notebook did not include the CSV dataset. Add the correct dataset before running the notebook. Do not upload confidential or personally identifiable customer information to a public repository.
